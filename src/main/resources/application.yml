@@ -1,0 +1,13 @@
+demo:
+  endpoint:
+    base: /demo
+server:
+  port: 8081
+  servlet:
+    contextPath: /demo
+
+
+spring:
+  apication:
+    name: "demo-capability"
+
